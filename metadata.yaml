@@ -1,0 +1,31 @@
+_repo: The-Southern-Soldier-Boy--A-Thousand-Shots-for-the-Confederacy_31453
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Elliott, James Carson
+    birthdate: 1845
+    gutenberg_agent_id: '35237'
+    url: http://www.gutenberg.org/2009/agents/35237
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2010-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31453'
+  lccn: 07039541
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives,
+  Confederate'
+- !lcc 'E456'
+- !lcsh 'Confederate States of America. Army. North Carolina Infantry Regiment, 56th.
+  Company F'
+title: 'The Southern Soldier Boy: A Thousand Shots for the Confederacy'
+url: http://www.gutenberg.org/ebooks/31453
