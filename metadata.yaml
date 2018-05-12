@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '35237'
     url: http://www.gutenberg.org/2009/agents/35237
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31453#The-Southern-Soldier-Boy--A-Thousand-Shots-for-the-Confederacy
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2010-02-28'
 gutenberg_type: Text
